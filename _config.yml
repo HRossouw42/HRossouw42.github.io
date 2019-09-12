@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Launchpad
+title: "Harmun's Launchpad"
 
 # Short description of your site
-description: Harmun's Corner of the Internet
+description: "My Corner of the Internet"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
