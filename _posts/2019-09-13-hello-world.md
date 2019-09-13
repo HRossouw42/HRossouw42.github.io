@@ -2,7 +2,7 @@
 layout: post
 title: Hello World!
 subtitle: Test post, please ignore.
-image: /img/hello_world.jpeg
+image: /img/corgi_hello.jpeg
 tags: [test]
 ---
 
