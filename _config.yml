@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: Launchpad
+title: Harmun Rossouw
 
 # Short description of your site
-description: "Harmun Rossouw's Test Site"
+description: "There be kobolds"
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -31,7 +31,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: /path/to/image
+ title-img: "/img/avatar-icon.jpeg"
 
 # --- Background colour/image options --- #
 
