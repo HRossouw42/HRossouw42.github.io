@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Year of Leaps
-subtitle: 01 Let's talk themes
-image: /img/blog1-mountain.jpeg
+subtitle: Let's talk themes
+image: img/blog1-mountain.jpeg
 tags: [blog][themes]
 ---
 
@@ -20,7 +20,9 @@ Year of Health? I'll have yogurt instead of sugary cereals for breakfast. A simp
 
 The idea comes from CGP Grey, who explains it best:
 
-seroiusly ![CGP Grey - Yearly Themes](https://www.youtube-nocookie.com/embed/NVGuFdX5guE)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NVGuFdX5guE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<!-- ![CGP Grey - Yearly Themes](https://www.youtube-nocookie.com/embed/NVGuFdX5guE) -->
 
 ### 2020 - that happened
 
