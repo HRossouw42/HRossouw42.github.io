@@ -2,7 +2,7 @@
 layout: post
 title: Year of Leaps
 subtitle: Let's talk themes
-image: img/blog1-mountain.jpeg
+# image: img/blog1-mountain.jpeg
 tags: [blog][themes]
 ---
 
