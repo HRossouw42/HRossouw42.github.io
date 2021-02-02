@@ -20,7 +20,7 @@ Year of Health? I'll have yogurt instead of sugary cereals for breakfast. A simp
 
 The idea comes from CGP Grey, who explains it best:
 
-![CGP Grey - Yearly Themes](https://www.youtube-nocookie.com/embed/NVGuFdX5guE)
+seroiusly ![CGP Grey - Yearly Themes](https://www.youtube-nocookie.com/embed/NVGuFdX5guE)
 
 ### 2020 - that happened
 
