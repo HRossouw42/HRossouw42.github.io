@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Year of Leaps
-subtitle: Let's talk themes
-# image: img/blog1-mountain.jpeg
-tags: [blog][themes]
+subtitle: Lets talk themes
+image: img/blog1-mountain.jpeg
+tags: [themes]
 ---
 
 Time to set a theme for 2021
@@ -21,8 +21,6 @@ Year of Health? I'll have yogurt instead of sugary cereals for breakfast. A simp
 The idea comes from CGP Grey, who explains it best:
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/NVGuFdX5guE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-<!-- ![CGP Grey - Yearly Themes](https://www.youtube-nocookie.com/embed/NVGuFdX5guE) -->
 
 ### 2020 - that happened
 
