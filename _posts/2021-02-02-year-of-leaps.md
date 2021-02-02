@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Year of Leaps
-subtitle: 01 🏔
+subtitle: 01 Let's talk themes
 image: /img/blog1-mountain.jpeg
 tags: [blog][themes]
 ---
 
 Time to set a theme for 2021
 
-# Picking a yearly theme
+## Picking a yearly theme
 
-## What are themes?
+### What are themes?
 
 Themes are a less defined form of 'New Year's Resolutions'. You pick a broad topic and make that the theme of the year.
 
@@ -22,9 +22,7 @@ The idea comes from CGP Grey, who explains it best:
 
 ![CGP Grey - Yearly Themes](https://www.youtube-nocookie.com/embed/NVGuFdX5guE)
 
-![CGP Grey - Yearly Themes](https://youtu.be/NVGuFdX5guE)
-
-## 2020 - that happened
+### 2020 - that happened
 
 2020 was a -heck- of a year and my theme at the time, Year of The Forge, was aimed at honing my body, mind and skill set for a new career as a software engineer.
 
@@ -34,11 +32,11 @@ Then well, _the thing_ happened and my partner and I's plans to move to London w
 
 But through all that I was still intent on forging myself so I picked up running (physical fitness was almost medicinal during lockdowns), did algorithm questions, and went about organising some things in my life.
 
-## 2021 - The Year of Leaps
+### 2021 - The Year of Leaps
 
 Now it's time to pick a new theme.
 
-So this year, starting from a more solid foundation, I want to take some risks. Take a leap.
+So this year, starting from a more solid foundation 🏔, I want to take some risks. Take a leap.
 
 📝 Definition of _leap_
 
